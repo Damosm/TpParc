@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DB>
+	<url>127.0.0.1:3306</url>
+	<password></password>
+	<user>root</user>
+	<database>tp_parc</database>
+</DB>

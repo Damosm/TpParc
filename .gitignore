@@ -1,0 +1,8 @@
+.settings
+bin
+doc
+log
+./fr
+.classpath
+.project
+*.class
